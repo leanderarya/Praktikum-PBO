@@ -1,5 +1,10 @@
-// Nama = Arya Ajisadda Haryanto
-// NIM = 24060122140118
+/**
+ * File      : MTitik.java		21/02/23
+ * Nama penulis   : Arya Ajisadda Haryanto
+ * NIM               : 24060122140118
+ * Deskripsi : Main dari Titik
+ * 
+ */
 
 class MTitik
 {
