@@ -5,6 +5,6 @@ public class MLingkaran {
         System.out.print("Masukkan jari-jari : ");
         double jejari = scan.nextDouble();
         Lingkaran l = new Lingkaran(jejari);
-        System.out.println("Luas lingkaran dengan jejari "+jejari+"satuan adalah "+l.hitungLuas());
+        System.out.println("Luas lingkaran dengan jejari "+jejari+" satuan adalah "+l.hitungLuas());
     }
 }
